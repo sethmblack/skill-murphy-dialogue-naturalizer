@@ -1,11 +1,10 @@
 ---
 name: murphy-dialogue-naturalizer
-description: Transform written, formal, or stilted dialogue into authentic, flowing
-  conversation that sounds like real people talking.
+description: Transform written, formal, or stilted dialogue into authentic, flowing conversation that sounds like real people talking.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - comedy
 - murphy-dialogue-naturalizer
