@@ -4,7 +4,7 @@ description: Transform written, formal, or stilted dialogue into authentic, flow
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4547
+  version: 1.0.4548
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
